@@ -1,0 +1,22 @@
+{
+  "name": "Satoshi Token List",
+  "timestamp": "2025-08-13T12:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "keywords": ["Satoshi", "SAT"],
+  "tags": {
+    "community": {
+      "name": "Satoshi",
+      "description": "$Sat is the first token to be airdropped for free to early active users on Spark."
+    }
+  },
+  "tokens": [
+    {
+      "identifier": "02757529fa69b70e55cee583c03d58936c39fff134b83808745db1ff41c1603bdb",
+      "address": "btkn1ahde7vh0df88swqy653schjsp4pkjn4l0xymnzduv0x4z5f2sevqrnuhrc",
+      "name": "Satoshi",
+      "symbol": "SAT",
+      "decimals": 0,
+      "tags": ["community"]
+    }
+  ]
+}
